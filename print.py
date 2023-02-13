@@ -1,1 +1,1 @@
-print("This is sample");
+print("This is sample")
